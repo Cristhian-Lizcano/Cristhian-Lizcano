@@ -54,5 +54,5 @@ Ingeniero y desarrollador Full Stack orientado a la construcción de software we
 ### 📫 Conéctate conmigo
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://tu-dominio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/cristhian-lizcano-arenas-880764265/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-lizcano-arenas-880764265/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
