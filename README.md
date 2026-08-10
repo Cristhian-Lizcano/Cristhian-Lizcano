@@ -1,3 +1,8 @@
+<p align="right">
+  <b>Idioma:</b>
+  <a href="./README.md">🇪🇸 Español</a> | 
+  <a href="./README.en.md">🇬🇧 English</a>
+</p>
 # ¡Hola! Mi nombre es Cristhian Lizcano 
 
 ###  Full Stack Developer
