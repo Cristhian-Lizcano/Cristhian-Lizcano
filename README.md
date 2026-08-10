@@ -39,7 +39,7 @@ Ingeniero y desarrollador Full Stack orientado a la construcción de software we
 
 ---
 
-### 💼 Trayectoria y Proyectos Públicos
+### Trayectoria y Proyectos Públicos
 
 > *Gran parte de mi experiencia profesional se ha desarrollado en repositorios privados y corporativos. Actualmente estoy extrayendo, modularizando y construyendo proyectos de código abierto para documentar estos patrones de diseño.*
 
@@ -51,7 +51,7 @@ Ingeniero y desarrollador Full Stack orientado a la construcción de software we
 
 ---
 
-### 📫 Conéctate conmigo
+### Conéctate conmigo
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://cristhianlizcano.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-lizcano-arenas-880764265/)
